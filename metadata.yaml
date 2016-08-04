@@ -1,0 +1,29 @@
+_repo: B-r--Podmaniczky-P-l--s-a-norv-g-Biblia--13-Elbesz-l-s-a-18-nyelv--nagyap-r-l-77-nyelven--s-ro__5640
+_version: 0.0.1
+alternative_title: "Baron Pál Podmaniczky and the Norwegian Bible\r\nA short story\
+  \ about the 18 lingual grandfather in 77 languages and in runic script"
+creator:
+  author:
+    agent_name: Ilona, Martinovitsné Kutas
+    gutenberg_agent_id: '1826'
+    url: http://www.gutenberg.org/2009/agents/1826
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5640'
+language:
+- hu
+- en
+language_note: In multiple languages; title and commentaries in Hungarian and English.
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PH'
+- !lcsh 'Translations'
+- GITenberg
+title: "Báró Podmaniczky Pál és a norvég Biblia\r\nElbeszélés a 18 nyelvü nagyapáról\
+  \ 77 nyelven és rovásírással"
+url: http://www.gutenberg.org/ebooks/5640
